@@ -60,7 +60,7 @@
    # --config-file ${IMAGENET_PRETRAINED}/${SCRATCH}/${COCO_PRETRAINED}
    ```
 
-5. 可下载已经训练好的模型，并放置在`data`文件夹下（[Faster R-CNN（COCO+ImageNet预训练、ImageNet预训练、随机初始化](https://pan.baidu.com/s/1FMh7eBFnIl1_qaqWTZl3MA?pwd=a0nv)）
+5. 可下载已经训练好的[模型](https://pan.baidu.com/s/1FMh7eBFnIl1_qaqWTZl3MA?pwd=a0nv)，并放置在`data`文件夹下
 
 6. 模型结果可视化
 
@@ -74,4 +74,4 @@
 
 下表为三种模型的训练阶段AP变化情况，橙色曲线代表COCO+ImageNet预训练模型，红色曲线代表ImageNet预训练模型，蓝色曲线代表随机初始化模型。
 
-![image-20220609164829567](D:\林恒旭\研究生\神经网络和深度学习\Project\期末项目\figs\image-20220609164829567.png)
+![image-20220609164829567](figs/image-20220609164829567.png)
