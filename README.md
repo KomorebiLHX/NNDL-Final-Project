@@ -69,8 +69,7 @@
    visualize(<your config path>, <your inference directory>, <your title>)
    ```
 
-
-#### 训练结果
+### 训练结果
 
 下表为三种模型的训练阶段AP变化情况，橙色曲线代表COCO+ImageNet预训练模型，红色曲线代表ImageNet预训练模型，蓝色曲线代表随机初始化模型。
 
