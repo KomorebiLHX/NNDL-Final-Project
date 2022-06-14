@@ -1,1 +1,3 @@
 object_detection/data/*
+vit-cutout-mixup-cutmix/checkpoints/*
+
